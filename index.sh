@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 set -e
 
 # 一键安装 Docker (适用于 Debian 11/12)
