@@ -14,4 +14,4 @@
 
 ### 一行命令安装
 ```bash
-sudo bash <(curl -fsSL dkr.kosno.de)
+curl -fsSL dkr.kosno.de | sudo bash
